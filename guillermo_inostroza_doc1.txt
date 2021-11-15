@@ -1,1 +1,2 @@
 archivo guillermo_inostroza_doc1.txt
+Añado una nueva linea a archivo guillermo_inostroza_doc1.txt
